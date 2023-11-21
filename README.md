@@ -1,3 +1,9 @@
+Corizo - Minor Project on Stock-Price-Prediction
+Corizo - Minor Project On Stock Price Prediction Using Long Short-Term Memory(LSTM) Networks.
+
+
+
+
 Attribute Information :
 Open - The price the stock opened at.
 High - The highest price during the day.
